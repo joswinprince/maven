@@ -1,5 +1,5 @@
 ## Maven
-### Create a Proect
+### Create a Maven Project
 ```
 mvn archetype:generate -DgroupId=com.example -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 ```
