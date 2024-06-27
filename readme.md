@@ -11,3 +11,5 @@ mvn -f D:\..\..\pom.xml compile
 ```
 mvn -f D:\..\..\pom.xml package
 ```
+## Packaging 
+mvn test -f /full/path/to/your/project/pom.xml -Dtestng.xml.file=/path/to/your/testng.xml
